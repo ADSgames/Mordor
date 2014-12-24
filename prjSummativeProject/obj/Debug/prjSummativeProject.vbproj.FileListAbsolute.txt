@@ -1,0 +1,73 @@
+W:\Allan Legemaate\Unit 3\Lesson 13\prjSummativeProject\prjSummativeProject\bin\Debug\prjSummativeProject.exe
+W:\Allan Legemaate\Unit 3\Lesson 13\prjSummativeProject\prjSummativeProject\bin\Debug\prjSummativeProject.pdb
+W:\Allan Legemaate\Unit 3\Lesson 13\prjSummativeProject\prjSummativeProject\bin\Debug\prjSummativeProject.xml
+W:\Allan Legemaate\Unit 3\Lesson 13\prjSummativeProject\prjSummativeProject\obj\Debug\ResolveAssemblyReference.cache
+W:\Allan Legemaate\Unit 3\Lesson 13\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.Resources.resources
+W:\Allan Legemaate\Unit 3\Lesson 13\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.vbproj.GenerateResource.Cache
+W:\Allan Legemaate\Unit 3\Lesson 13\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.exe
+W:\Allan Legemaate\Unit 3\Lesson 13\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.xml
+W:\Allan Legemaate\Unit 3\Lesson 13\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.pdb
+W:\Allan Legemaate\Unit 3\Lesson 13\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.Inventory.resources
+W:\Allan Legemaate\Unit 3\Lesson 13\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.Main.resources
+W:\Allan Legemaate\Unit 3\Lesson 13\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.Store.resources
+E:\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.exe
+E:\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.xml
+E:\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.pdb
+E:\prjSummativeProject\prjSummativeProject\bin\Debug\prjSummativeProject.exe
+E:\prjSummativeProject\prjSummativeProject\bin\Debug\prjSummativeProject.pdb
+E:\prjSummativeProject\prjSummativeProject\bin\Debug\prjSummativeProject.xml
+E:\prjSummativeProject\prjSummativeProject\obj\Debug\ResolveAssemblyReference.cache
+E:\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.Main.resources
+E:\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.Resources.resources
+E:\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.Stats.resources
+E:\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.Menu.resources
+E:\prjSummativeProject\prjSummativeProject\bin\Debug\prjSummativeProject.exe.config
+E:\prjSummativeProject\prjSummativeProject\obj\Debug\GenerateResource.read.1.tlog
+E:\prjSummativeProject\prjSummativeProject\obj\Debug\GenerateResource.write.1.tlog
+E:\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.FightScreen.resources
+E:\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.Help.resources
+E:\cs\summative\prjSummativeProject\prjSummativeProject\bin\Debug\prjSummativeProject.exe.config
+E:\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.exe
+E:\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.xml
+E:\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.pdb
+E:\cs\summative\prjSummativeProject\prjSummativeProject\bin\Debug\prjSummativeProject.exe
+E:\cs\summative\prjSummativeProject\prjSummativeProject\bin\Debug\prjSummativeProject.pdb
+E:\cs\summative\prjSummativeProject\prjSummativeProject\bin\Debug\prjSummativeProject.xml
+E:\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\ResolveAssemblyReference.cache
+E:\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.FightScreen.resources
+E:\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.Help.resources
+E:\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.Menu.resources
+E:\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.Stats.resources
+E:\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.Main.resources
+E:\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.Resources.resources
+E:\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\GenerateResource.read.1.tlog
+E:\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Alan\Desktop\Allans Programming\cs\summative\prjSummativeProject\prjSummativeProject\bin\Debug\prjSummativeProject.exe
+C:\Users\Alan\Desktop\Allans Programming\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\prjSummativeProject.vbproj.GenerateResource.Cache
+C:\Users\Alan\Desktop\Allans Programming\cs\summative\prjSummativeProject\prjSummativeProject\bin\Debug\Mordor.exe.config
+C:\Users\Alan\Desktop\Allans Programming\cs\summative\prjSummativeProject\prjSummativeProject\bin\Debug\Mordor.exe
+C:\Users\Alan\Desktop\Allans Programming\cs\summative\prjSummativeProject\prjSummativeProject\bin\Debug\Mordor.pdb
+C:\Users\Alan\Desktop\Allans Programming\cs\summative\prjSummativeProject\prjSummativeProject\bin\Debug\Mordor.xml
+C:\Users\Alan\Desktop\Allans Programming\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\Mordor.FightScreen.resources
+C:\Users\Alan\Desktop\Allans Programming\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\Mordor.Help.resources
+C:\Users\Alan\Desktop\Allans Programming\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\Mordor.Menu.resources
+C:\Users\Alan\Desktop\Allans Programming\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\Mordor.Stats.resources
+C:\Users\Alan\Desktop\Allans Programming\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\Mordor.Main.resources
+C:\Users\Alan\Desktop\Allans Programming\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\Mordor.Resources.resources
+C:\Users\Alan\Desktop\Allans Programming\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\Mordor.exe
+C:\Users\Alan\Desktop\Allans Programming\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\Mordor.xml
+C:\Users\Alan\Desktop\Allans Programming\cs\summative\prjSummativeProject\prjSummativeProject\obj\Debug\Mordor.pdb
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\bin\Debug\Mordor.exe.config
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\obj\Debug\Mordor.exe
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\obj\Debug\Mordor.xml
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\obj\Debug\Mordor.pdb
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\bin\Debug\Mordor.exe
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\bin\Debug\Mordor.pdb
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\bin\Debug\Mordor.xml
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\obj\Debug\Mordor.FightScreen.resources
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\obj\Debug\Mordor.Help.resources
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\obj\Debug\Mordor.Menu.resources
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\obj\Debug\Mordor.Stats.resources
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\obj\Debug\Mordor.Main.resources
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\obj\Debug\Mordor.Resources.resources
+C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\obj\Debug\prjSummativeProject.vbproj.GenerateResource.Cache
