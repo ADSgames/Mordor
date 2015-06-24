@@ -4,12 +4,20 @@
 | |  | | (_) | | | (_| | (_) | |   
 |_|  |_|\___/|_|  \__,_|\___/|_|                              
 
-Allan Legemaate, Allan Daniel Software
+Allan Legemaate, Danny Van Stemp. Allan Daniel Software
 -----------------------
-Adsgames 2012
+A.D.S. Games 2015
+
 Changelog:
 -----------------------
+2015
+Version 1.1
+--------------
+*Fixed a bug with the first item in the store being free
+*Grammer/spelling fixes
 
+
+2012
 Version 1.0
 --------------
 *Game Released
