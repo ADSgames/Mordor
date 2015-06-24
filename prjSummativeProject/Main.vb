@@ -17,6 +17,7 @@
 
     'Runs all neccisary functions on startup
     Private Sub Main_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+
         'Assigns character stats to starter values
         money = 200
         health = 20
@@ -91,9 +92,9 @@
             picDot.Top = plcNurnen.Top + 20
             picDot.Left = plcNurnen.Left + plcNurnen.Width / 2 - 10
             'Sets info message
-            lblInfo.Text = "You arrive in Nurnen"
+            lblInfo.Text = "You arrive in Nurnen."
         Else
-            lblInfo.Text = "You are all ready in Nurnen"
+            lblInfo.Text = "You are already in Nurnen."
         End If
         If health < 20 Then
             health += 1
@@ -114,9 +115,9 @@
             picDot.Top = plcMtDoom.Top + 20
             picDot.Left = plcMtDoom.Left + plcMtDoom.Width / 2 - 10
             'Sets info message
-            lblInfo.Text = "You arrive in MtDoom"
+            lblInfo.Text = "You arrive in Mt. Doom."
         Else
-            lblInfo.Text = "You are all ready in MtDoom"
+            lblInfo.Text = "You are already in Mt. Doom."
         End If
         If health < 20 Then
             health += 1
@@ -137,9 +138,9 @@
             picDot.Top = plcLithland.Top + 20
             picDot.Left = plcLithland.Left + plcLithland.Width / 2 - 10
             'Sets info message
-            lblInfo.Text = "You arrive in Lithland"
+            lblInfo.Text = "You arrive in Lithland."
         Else
-            lblInfo.Text = "You are all ready in Lithland"
+            lblInfo.Text = "You are already in Lithland."
         End If
         If health < 20 Then
             health += 1
@@ -160,9 +161,9 @@
             picDot.Top = plcMinasMorgle.Top + 20
             picDot.Left = plcMinasMorgle.Left + plcMinasMorgle.Width / 2 - 10
             'Sets info message
-            lblInfo.Text = "You arrive in MinasMorgle"
+            lblInfo.Text = "You arrive in Minas Morgle."
         Else
-            lblInfo.Text = "You are all ready in MinasMorgle"
+            lblInfo.Text = "You are already in Minas Morgle."
         End If
         If health < 20 Then
             health += 1
@@ -183,9 +184,9 @@
             picDot.Top = plcKazaDoom.Top + 20
             picDot.Left = plcKazaDoom.Left + plcKazaDoom.Width / 2
             'Sets info message
-            lblInfo.Text = "You arrive in KazaDoom"
+            lblInfo.Text = "You arrive in Kaza Doom."
         Else
-            lblInfo.Text = "You are all ready in KazaDoom"
+            lblInfo.Text = "You are already in Kaza Doom."
         End If
         If health < 20 Then
             health += 1
@@ -206,9 +207,9 @@
             picDot.Top = plcDeadMarsh.Top + 20
             picDot.Left = plcDeadMarsh.Left + plcDeadMarsh.Width / 2 - 10
             'Sets info message
-            lblInfo.Text = "You arrive in DeadMarsh"
+            lblInfo.Text = "You arrive in Dead Marsh."
         Else
-            lblInfo.Text = "You are all ready in DeadMarsh"
+            lblInfo.Text = "You are already in Dead Marsh."
         End If
         If health < 20 Then
             health += 1
@@ -350,7 +351,7 @@
         lblStoreItemInfo.Text = getDamage(lbxBuy.SelectedItem)
     End Sub
     'Checks if player has enought money then if true subtracts money from the player and gives them their item
-    Private Sub btnBuyItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnBuyItem.Click
+    Private Sub ftnBuyItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnBuyItem.Click
         'Makes sure user has enough money to purchase item
         If getPrice() <= money Then
             money -= storeGetPrice()

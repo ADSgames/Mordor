@@ -71,3 +71,17 @@ C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\
 C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\obj\Debug\Mordor.Main.resources
 C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\obj\Debug\Mordor.Resources.resources
 C:\Users\Alan\Desktop\Allans Programming\Games Indev\Mordor\prjSummativeProject\obj\Debug\prjSummativeProject.vbproj.GenerateResource.Cache
+C:\Users\Danny\Documents\GitHub\Mordor\prjSummativeProject\bin\Debug\Mordor.exe.config
+C:\Users\Danny\Documents\GitHub\Mordor\prjSummativeProject\obj\Debug\Mordor.exe
+C:\Users\Danny\Documents\GitHub\Mordor\prjSummativeProject\obj\Debug\Mordor.xml
+C:\Users\Danny\Documents\GitHub\Mordor\prjSummativeProject\obj\Debug\Mordor.pdb
+C:\Users\Danny\Documents\GitHub\Mordor\prjSummativeProject\bin\Debug\Mordor.exe
+C:\Users\Danny\Documents\GitHub\Mordor\prjSummativeProject\bin\Debug\Mordor.pdb
+C:\Users\Danny\Documents\GitHub\Mordor\prjSummativeProject\bin\Debug\Mordor.xml
+C:\Users\Danny\Documents\GitHub\Mordor\prjSummativeProject\obj\Debug\Mordor.FightScreen.resources
+C:\Users\Danny\Documents\GitHub\Mordor\prjSummativeProject\obj\Debug\Mordor.Help.resources
+C:\Users\Danny\Documents\GitHub\Mordor\prjSummativeProject\obj\Debug\Mordor.Menu.resources
+C:\Users\Danny\Documents\GitHub\Mordor\prjSummativeProject\obj\Debug\Mordor.Stats.resources
+C:\Users\Danny\Documents\GitHub\Mordor\prjSummativeProject\obj\Debug\Mordor.Main.resources
+C:\Users\Danny\Documents\GitHub\Mordor\prjSummativeProject\obj\Debug\Mordor.Resources.resources
+C:\Users\Danny\Documents\GitHub\Mordor\prjSummativeProject\obj\Debug\prjSummativeProject.vbproj.GenerateResource.Cache
