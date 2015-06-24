@@ -67,6 +67,7 @@ Partial Class Main
         Me.Label9 = New System.Windows.Forms.Label()
         Me.lbxInventory = New System.Windows.Forms.ListBox()
         Me.tabStore = New System.Windows.Forms.TabPage()
+        Me.lblStoreMoney = New System.Windows.Forms.Label()
         Me.lblStoreItemInfo = New System.Windows.Forms.Label()
         Me.Label17 = New System.Windows.Forms.Label()
         Me.btnBuyItem = New System.Windows.Forms.Button()
@@ -77,7 +78,6 @@ Partial Class Main
         Me.Label12 = New System.Windows.Forms.Label()
         Me.lbxBuy = New System.Windows.Forms.ListBox()
         Me.Label18 = New System.Windows.Forms.Label()
-        Me.lblStoreMoney = New System.Windows.Forms.Label()
         CType(Me.picMap, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.picDot, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.tabMain.SuspendLayout()
@@ -558,6 +558,15 @@ Partial Class Main
         Me.tabStore.Text = "Store"
         Me.tabStore.UseVisualStyleBackColor = True
         '
+        'lblStoreMoney
+        '
+        Me.lblStoreMoney.AutoSize = True
+        Me.lblStoreMoney.Location = New System.Drawing.Point(9, 405)
+        Me.lblStoreMoney.Name = "lblStoreMoney"
+        Me.lblStoreMoney.Size = New System.Drawing.Size(63, 13)
+        Me.lblStoreMoney.TabIndex = 22
+        Me.lblStoreMoney.Text = "Money: 200"
+        '
         'lblStoreItemInfo
         '
         Me.lblStoreItemInfo.AutoSize = True
@@ -647,15 +656,6 @@ Partial Class Main
         Me.Label18.Size = New System.Drawing.Size(92, 20)
         Me.Label18.TabIndex = 17
         Me.Label18.Text = "Final Platau"
-        '
-        'lblStoreMoney
-        '
-        Me.lblStoreMoney.AutoSize = True
-        Me.lblStoreMoney.Location = New System.Drawing.Point(9, 405)
-        Me.lblStoreMoney.Name = "lblStoreMoney"
-        Me.lblStoreMoney.Size = New System.Drawing.Size(63, 13)
-        Me.lblStoreMoney.TabIndex = 22
-        Me.lblStoreMoney.Text = "Money: 200"
         '
         'Main
         '

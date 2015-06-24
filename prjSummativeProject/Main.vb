@@ -233,6 +233,7 @@
         If getPrice() Then
             money += getPrice()
             lblMoney.Text = money
+            lblStoreMoney.Text = "Money: " + Str(money)
             lbxBuy.Items.Add(lbxInventory.SelectedItem)
             lbxInventory.Items.Remove(lbxInventory.SelectedItem)
             btnSellItem.Enabled = False
@@ -457,8 +458,5 @@
         Return damage
     End Function
 
-    Private Sub Label19_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblStoreMoney.Click
-        lblStoreMoney.Text = Str(getPrice())
-    End Sub
 End Class
 

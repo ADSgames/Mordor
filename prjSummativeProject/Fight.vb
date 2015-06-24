@@ -76,6 +76,7 @@
             MessageBox.Show("You defeated the " & compName & " and received " & bonus & " gold")
             'Updates all lables
             Main.lblMoney.Text = Main.money
+            Main.lblStoreMoney.Text = "Money: " + Str(Main.money)
             Main.lblHealth.Text = Main.health
             'Checks if level up is required
             If Main.experience > 4 Then
@@ -132,6 +133,7 @@
         Main.careerMoney -= 50
         'Updates lables
         Main.lblMoney.Text = Main.money
+        Main.lblStoreMoney.Text = "Money: " + Str(Main.money)
         Main.lblHealth.Text = Main.health
         Main.ldbHealthBar.Value = Main.health
     End Sub
