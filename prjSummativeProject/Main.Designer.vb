@@ -77,6 +77,7 @@ Partial Class Main
         Me.Label12 = New System.Windows.Forms.Label()
         Me.lbxBuy = New System.Windows.Forms.ListBox()
         Me.Label18 = New System.Windows.Forms.Label()
+        Me.lblStoreMoney = New System.Windows.Forms.Label()
         CType(Me.picMap, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.picDot, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.tabMain.SuspendLayout()
@@ -539,6 +540,7 @@ Partial Class Main
         '
         'tabStore
         '
+        Me.tabStore.Controls.Add(Me.lblStoreMoney)
         Me.tabStore.Controls.Add(Me.lblStoreItemInfo)
         Me.tabStore.Controls.Add(Me.Label17)
         Me.tabStore.Controls.Add(Me.btnBuyItem)
@@ -646,6 +648,15 @@ Partial Class Main
         Me.Label18.TabIndex = 17
         Me.Label18.Text = "Final Platau"
         '
+        'lblStoreMoney
+        '
+        Me.lblStoreMoney.AutoSize = True
+        Me.lblStoreMoney.Location = New System.Drawing.Point(9, 405)
+        Me.lblStoreMoney.Name = "lblStoreMoney"
+        Me.lblStoreMoney.Size = New System.Drawing.Size(63, 13)
+        Me.lblStoreMoney.TabIndex = 22
+        Me.lblStoreMoney.Text = "Money: 200"
+        '
         'Main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -736,5 +747,6 @@ Partial Class Main
     Friend WithEvents lblStoreItemInfo As System.Windows.Forms.Label
     Friend WithEvents Label17 As System.Windows.Forms.Label
     Friend WithEvents Label18 As System.Windows.Forms.Label
+    Friend WithEvents lblStoreMoney As System.Windows.Forms.Label
 
 End Class

@@ -353,9 +353,10 @@
     'Checks if player has enought money then if true subtracts money from the player and gives them their item
     Private Sub ftnBuyItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnBuyItem.Click
         'Makes sure user has enough money to purchase item
-        If getPrice() <= money Then
+        If storeGetPrice() <= money Then
             money -= storeGetPrice()
             lblMoney.Text = money
+            lblStoreMoney.Text = "Money: " + Str(money)
             lbxInventory.Items.Add(lbxBuy.SelectedItem)
             btnBuyItem.Enabled = False
             If lbxBuy.SelectedItem <> "Health Potion" Then
@@ -364,9 +365,11 @@
         Else
             MessageBox.Show("You can't afford that item")
         End If
+
+
         'Checks for win
         If lbxInventory.Items.Contains("Godly Sword") = True And lbxInventory.Items.Contains("Godly Sheild") = True Then
-            MessageBox.Show("Congratulations you win!")
+            MessageBox.Show("congratulations, you win!")
             MessageBox.Show("Your final score is " & careerMoney & ".")
             Dim reply As DialogResult = MessageBox.Show("Continue Playing?", "Caption", _
               MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1)
@@ -453,5 +456,9 @@
         End If
         Return damage
     End Function
+
+    Private Sub Label19_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblStoreMoney.Click
+        lblStoreMoney.Text = Str(getPrice())
+    End Sub
 End Class
 
